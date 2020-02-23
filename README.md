@@ -1,2 +1,2 @@
-# IDEA-settings-repo
-IDEA settings repo
+# JetBrains-settings-repo
+
