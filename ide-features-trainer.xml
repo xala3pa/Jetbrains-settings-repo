@@ -66,6 +66,7 @@
         <entry key="Select" value="NOT_PASSED" />
         <entry key="Smart Type Completion" value="NOT_PASSED" />
         <entry key="Statement Completion" value="NOT_PASSED" />
+        <entry key="Surround and Unwrap" value="NOT_PASSED" />
         <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="swift.codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="swift.codegeneration.createfromusage" value="NOT_PASSED" />
